@@ -1,0 +1,5612 @@
+### Final Output:
+```python
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+    ]
+
+
+### Final Output:
+**[null, null, null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+    ]
+
+
+### Final Output:
+```
+[null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+    ]
+
+
+### Final Output:
+`[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+    ]
+
+
+### Final Output:
+```python
+[
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+    ]
+
+
+### Final Output:
+```python
+["null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+    ]
+
+
+### Final Output:
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+    ]
+
+
+### Final Output:
+```
+[ null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+    ]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+    ]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+    ]
+
+
+### Final Output:
+`[null, null, null, null, null, null, null, "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+    ]
+
+
+### Final Output:
+```json
+[
+  null,
+  null,
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  null,
+  null,
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Claim",
+  "Claim",
+  "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    null,
+    null,
+    "Evidence",
+    null,
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence"
+  \]
+
+
+### Final Output:
+```python
+["Claim", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    "Evidence",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, Evidence, null, null, null, null, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```
+[ null, "Evidence", null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, Evidence, Evidence, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "Evidence", "Evidence", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Claim", "Claim", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, "Claim", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", null]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null, null, null, "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    null,
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", null]**",
+  "answer": [
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "null"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+```json
+[
+  "null",
+  "null",
+  "null",
+  "null",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Claim",
+  "Claim",
+  "Claim",
+  "Claim",
+  "null"
+]
+```",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+```python
+["null", "Evidence", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", null, "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+`[null, null, null, null, "Evidence", "Evidence", "Evidence", null, "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "null", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+["null", "Evidence", "null", "null", "null", "Evidence", "Evidence", "Claim"]",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", null, "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, "Claim", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", null, null, null, "Evidence", "Evidence", "Claim", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", null, "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, "Evidence", null, null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, "Evidence", null, null, null, "Evidence", "Evidence", "Claim", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, "Claim", null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, "Claim", "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null, null, "Claim"]
+```",
+  "answer": [
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    null,
+    null
+  \]
+
+
+### Final Output:
+```python
+[
+  "null",
+  "null",
+  "null",
+  "null",
+  "null",
+  "null",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Claim"
+]```",
+  "answer": [
+    "Claim",
+    null,
+    "Claim",
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    "Claim",
+    "Claim",
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`["Claim", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, Evidence, Evidence, null, null, null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    "Claim",
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, "Evidence", null, null, "Evidence", null, null, "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "Evidence", "null", "null", "Evidence", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "Evidence", "null", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]
+```",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, null, "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, null, null, null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Claim, Claim, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**["null", "Claim", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    "Evidence",
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+["Claim", "null", "null", "null", "Evidence", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "null", "Claim"]",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Claim", "Claim", null]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", "Evidence", "Claim", null]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", null, "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null,
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    null,
+    "Evidence",
+    null
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", null, "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim", "Evidence", "Claim", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, "Evidence", "Evidence", null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, "Evidence", "Claim", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "null"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", null, "Claim", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    "Claim",
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, Evidence, null, null, Evidence, Evidence, null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim, Claim]```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+["Claim", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Claim", "Evidence", "Claim", "null"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, Evidence, null, null, null, Evidence, Evidence, Evidence, Evidence, Claim, Claim, null]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```json
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null]
+```",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    "Claim",
+    "Evidence",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", null, "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim", "Claim", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim",
+    null,
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", null, "Evidence", "Claim", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`["Claim", null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, Evidence, null, null, Evidence, null, Evidence, null, Evidence, null, Evidence, Evidence, Evidence, Evidence, Evidence, null, Claim, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Claim", "Claim", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Claim", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Claim",
+    "Evidence",
+    null,
+    null
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim", null]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    null,
+    "Evidence",
+    null,
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, Evidence, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    null,
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "Evidence", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, Evidence, Evidence, null, Evidence, Evidence]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, "Evidence", null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    null,
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+[ null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", null, null ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", "Claim", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, "Evidence", null, null, "Evidence", "Evidence", "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+[ null, null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, "Evidence", null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+### Final Output:
+```
+[ null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim", "Claim", "Evidence" ]
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    "Claim"
+  ]
+
+### Final Output:
+```python
+[
+    "null", "null", "null", "null", "null", "null", "null",
+    "Evidence", "Evidence", "Evidence", "Evidence", "Evidence",
+    "Evidence", "Evidence", "Evidence", "Evidence", "Evidence",
+    "Evidence", "Evidence", "Evidence", "Evidence", "Evidence",
+    "Evidence", "Evidence", "Evidence", "Evidence", "Evidence",
+    "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+[
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Claim",
+  "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", null, null, "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Claim",
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, Evidence, null, null, Evidence, Evidence, Evidence, Evidence, Claim, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, Evidence, Evidence, Evidence, null, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Evidence, Claim]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    null,
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    null,
+    null
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, null, "Claim", "Evidence", "Claim", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+[
+  "null",
+  "null",
+  "null",
+  "Evidence",
+  "null",
+  "null",
+  "null",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Evidence",
+  "Claim",
+  "Claim"
+]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence", "Evidence"]**",
+  "answer": [
+    null,
+    "Claim",
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Evidence"
+  \]
+
+
+### Final Output:
+`[null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", null]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, null, "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+`[null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]`",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "null", "null", "null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, "Evidence", null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Evidence"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", "Evidence", null, "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, "Evidence", null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    "Claim",
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```python
+[null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Evidence"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    null,
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim",
+    null
+  \]
+
+
+### Final Output:
+```
+[null, null, null, null, null, "Evidence", null, "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, "Evidence", "Evidence", "Evidence", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+```json
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+["null", "null", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Evidence", "Claim"]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim",
+    "Claim"
+  \]
+
+
+### Final Output:
+```
+[ null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim" ]
+```",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Claim"
+  \]
+
+
+### Final Output:
+**[null, null, null, null, null, null, null, "Evidence", "Evidence", "Evidence", "Evidence", "Claim", "Claim", "Claim", "Claim"]**",
+  "answer": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    "Evidence",
+    null,
+    "Claim",
+    "Claim",
+    "Claim"
+  ]
