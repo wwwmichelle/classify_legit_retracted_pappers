@@ -4,7 +4,7 @@ from openai import OpenAI
 from format__sentences import data_all
 
 client = OpenAI(
-    api_key="sk-8d638c8f73e5469e839afb6d2c7f787b",
+    api_key="sk-xxxx",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 
