@@ -4,6 +4,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, confusion_matrix, roc_auc_score
 import xgboost as xgb
 import lightgbm as lgb
+import shap
+import matplotlib as plt
 
 # ====== 1. 数据加载 ======
 # 读取合法和非法的 CSV
@@ -55,5 +57,21 @@ print("\nLightGBM 准确率:", accuracy_score(y_test, y_pred_lgb))
 print("LightGBM AUC:", roc_auc_score(y_test, y_prob_lgb))
 print("LightGBM 混淆矩阵:\n", confusion_matrix(y_test, y_pred_lgb))
 
+# 对 XGBoost 模型解释
+explainer_xgb = shap.TreeExplainer(xgb_model)
+shap_values_xgb = explainer_xgb.shap_values(X_train)
 
+# XGBoost SHAP 分析
+# 条形图：整体重要性
+shap.summary_plot(shap_values_xgb, X_train, plot_type="bar")
+# 散点图：不同取值对预测的影响
+shap.summary_plot(shap_values_xgb, X_train)
+
+# 对 LightGBM 模型解释
+explainer_lgb = shap.TreeExplainer(lgb_model)
+shap_values_lgb = explainer_lgb.shap_values(X_train)
+
+# LightGBM SHAP 分析
+shap.summary_plot(shap_values_lgb, X_train, plot_type="bar")
+shap.summary_plot(shap_values_lgb, X_train)
 
