@@ -52,6 +52,7 @@ The number of extracted claims and evidence should be kept to a minimum:
              }
         ],
         temperature=0,
+        response_format={"type":"json_object"},
         extra_body={"enable_thinking": False},
         stream=False,
         timeout=100,
