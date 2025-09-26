@@ -3,7 +3,7 @@ import json
 import numpy as np
 from component_extract.legit.count_F1 import outputs_all
 
-with open(r'C:\Users\21347\PycharmProjects\chatgpt_api\component_extract\fraud\fraud_component_extract_record.txt', 'r', encoding='utf-8') as f:
+with open(r'fraud_component_extract_record.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
 pattern = '\[[^\]]*(?:Evidence|Claim|null)[^\]]*\]'
@@ -38,7 +38,7 @@ for i in all_output:
     Evidence_number_list.append(Evidence_number)
     Claim_number_list.append(Claim_number)
 
-#非法平均数、中位数、最大值、最小值
+#非法中位数、平均数、最大值、最小值
 Evidence_min = min(Evidence_number_list)
 Evidence_max = max(Evidence_number_list)
 Evidence_mean = np.mean(Evidence_number_list)
@@ -66,7 +66,7 @@ for i in outputs_all:
     Evidence_number_list_else.append(Evidence_number_else)
     Claim_number_list_else.append(Claim_number_else)
 
-#合法平均数、中位数、最大值、最小值
+#合法中位数、平均数、最大值、最小值
 Evidence_min_else = min(Evidence_number_list_else)
 Evidence_max_else = max(Evidence_number_list_else)
 Evidence_mean_else = np.mean(Evidence_number_list_else)

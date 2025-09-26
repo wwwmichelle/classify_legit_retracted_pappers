@@ -1,7 +1,7 @@
 import re
 import json
 
-with open(r"C:\Users\21347\PycharmProjects\chatgpt_api\component_extract\legit\component_extract_record.txt", encoding="utf-8") as f:
+with open(r"component_extract_record.txt", encoding="utf-8") as f:
     content = f.read()
 
 content = content.replace('\\', '')

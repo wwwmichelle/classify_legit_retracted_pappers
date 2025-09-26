@@ -5,7 +5,7 @@ from tqdm import tqdm
 import numpy as np
 
 print("合法")
-with open(r'C:\Users\21347\PycharmProjects\chatgpt_api\merge_sentences\legit\legit_merge_sentence_record.txt', 'r', encoding='utf-8') as f:
+with open(r'..\merge_sentences\legit\legit_merge_sentence_record.txt', 'r', encoding='utf-8') as f:
     content = f.read()
 
 pattern_1 = r'\{[^{}]*\[[^\]]*\][^{}]*\}'
